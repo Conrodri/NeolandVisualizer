@@ -18,10 +18,12 @@ After getting all thoses datas, I used three.js to recreate a 3D environment.
 
 1 - Download the repository.
 
-2 - Go into overpass_server folder, type `npm install`
+2 - Go into overpass_server folder, type `npm install`.
+
 2.1 - Then type `npm start`.
 
 3 - Go into NeolandVisualizer folder, type `npm install`.
+
 3.1 - type `npm run dev` to start it as it is.
 
 3.2 - Change the land_ID, by the ID you want, then type `npm run dev`.
