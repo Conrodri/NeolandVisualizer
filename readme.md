@@ -46,6 +46,15 @@ Bordeaux:
 Paris:
 /?881fb46741fffff
 
+
+Live example on Neoland Game:
+
+https://game.neoland.io/land-page?landId=881f902565fffff
+
+https://game.neoland.io/land-page?landId=881f902563fffff
+
+https://game.neoland.io/land-page?landId=881fb4670dfffff
+
 Tips - If, you already created the land you are trying to recreate (with a refresh maybe), all the datas has been stocked, and will be re-used, so the creation take significantly less time.
 
 # 4 - How is it build ?
