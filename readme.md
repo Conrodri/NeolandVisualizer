@@ -1,5 +1,7 @@
 # Neoland 3D Visualizer
 
+![Screenshot](Eiffel-Place.png)
+
 # 1 - What is it
 
 The project is a 3D visualisation of the Neolands NFTS Created by the company Revolt Games.
